@@ -177,6 +177,7 @@ body {
   font-size: 1.6rem;
   line-height: var(--lineHeight-4);
   overflow-y: overlay;
+  
 }
 
 body.nav-active { overflow: hidden; }
