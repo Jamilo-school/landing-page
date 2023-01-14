@@ -1144,7 +1144,13 @@ button,nav-open-btn{
 a.back-top-btn.active{
   margin-right: 130px;
 }
+button.btn-icon{
+  padding: 15px;
+  padding-right: 29px;
+  border-radius: 32px;
+  padding-bottom: 27px;
 
+}
 
 
 
