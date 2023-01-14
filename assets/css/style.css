@@ -1138,7 +1138,8 @@ ul.navbar-list{
   height: 60vh;
   width: 60vw;
   border-radius: 10px;
-  border: 3px solid  hsla(199, 89%, 49%, 1);
+  border: 3px solid hsla(199, 89%, 49%, 1); ;
+
 
 }
 button,nav-open-btn{
