@@ -1137,6 +1137,9 @@ ul.navbar-list{
   border: 3px solid  hsla(199, 89%, 49%, 1);
 
 }
+button,nav-open-btn{
+  margin-right: 130px;
+}
 
 
 
