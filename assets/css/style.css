@@ -264,7 +264,7 @@ body.nav-active { overflow: hidden; }
 .btn-primary{
   padding: 8px 16px;
   border-radius: var(--radius-6);
-  margin: 10px;
+  margin:10px;
 }
 
 .btn-secondary {
