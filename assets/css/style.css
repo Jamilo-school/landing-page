@@ -1131,7 +1131,7 @@ ul.navbar-list{
 }
 .navbar.active{
   margin-top: 10px;
-  margin-right: 100px;
+  margin-right: 110px;
   height: 60vh;
   width: 60vw;
   border-radius: 10px;
@@ -1139,10 +1139,10 @@ ul.navbar-list{
 
 }
 button,nav-open-btn{
-  margin-right: 110px;
+  margin-right: 130px;
 }
 a.back-top-btn.active{
-  margin-right: 100px;
+  margin-right: 130px;
 }
 
 
